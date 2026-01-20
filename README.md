@@ -27,6 +27,19 @@ Please refer to the respective repositories for more details on the original fra
 This framework utilizes I3D video features extrated with the feature extraction library from [video_features](https://github.com/v-iashin/video_features).
 
 
+## Datasets Used
+
+The original datasets used in this research are publicly available from the following sources:
+
+- **PETS-2009**  
+  https://cs.binghamton.edu/~mrldata/pets2009
+
+- **HQFS (High Quality Fall Simulation Data)**  
+  https://iiw.kuleuven.be/onderzoek/advise/datasets#High%20Quality%20Fall%20Simulation%20Data
+
+- **UP-FALL**  
+  https://sites.google.com/up.edu.mx/har-up/
+
 ### Preprocessed datasets
 
 **Download the extracted I3d features for Pets-2009, HQFS and UP-FALL datasets from the link below:**
