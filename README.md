@@ -102,6 +102,10 @@ To evaluate our proposed approach, different baselines can be considered:
 - MC-MIL-SLF: Multi-camera MIL baseline by simple late score fusion of camera-specific SC-MIL models;
 - MC-MIL-FC: Multi-camera MIL baseline by linear concatenation of video clip features
 
+### PhD Thesis
+
+The PhD thesis associated with this project is available at this [link](https://siduece.uece.br/siduece/trabalhoAcademicoPublico.jsf?id=117452).
+
 ### Citation
 
 If you find this repo useful for your research, please consider citing our [paper]([https://github.com/wanboyang/Anomaly_AR_Net_ICME_2020](https://link.springer.com/article/10.1007/s00521-024-09611-3)):
